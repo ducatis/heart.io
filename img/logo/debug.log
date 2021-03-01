@@ -1,0 +1,5 @@
+[0917/165005.315:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0917/165005.920:ERROR:viz_main_impl.cc(184)] Exiting GPU process due to errors during initialization
+[0917/165005.940:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0917/165008.169:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0917/165016.331:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
