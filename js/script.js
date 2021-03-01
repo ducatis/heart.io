@@ -3,8 +3,8 @@
 
 $(document).ready(function(){
 	$('.carousel__inner').slick({
-		prevArrow: '<button type="button" class="slick-prev"><img src="img/icons/carousel_icons/arrow_left_icons.png"></button>',
-		nextArrow: '<button type="button" class="slick-next"><img src="img/icons/carousel_icons/arrow_right_icons.png"></button>'
+		prevArrow: '<button type="button" class="slick-prev"><img src="../img/icons/carousel_icons/arrow_left_icons.png"></button>',
+		nextArrow: '<button type="button" class="slick-next"><img src="../img/icons/carousel_icons/arrow_right_icons.png"></button>'
 	});
 
 	$('ul.catalog__tabs').on('click', 'li:not(.catalog__tab_active)', function() {
